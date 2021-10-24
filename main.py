@@ -1,1 +1,1 @@
-print("This is the new master!")
+print("This is the new master! And its addition!")
